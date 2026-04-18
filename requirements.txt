@@ -1,0 +1,1 @@
+openai\nrequests\npandas\nnumpy\nflask\n
